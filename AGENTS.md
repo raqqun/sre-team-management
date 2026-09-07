@@ -1,10 +1,10 @@
 ## What this repo is
 
-The operational source of truth for the <TEAM NAME> at <ORG NAME>:
+The operational source of truth for the `<TEAM NAME>` at `<ORG NAME>`:
 service catalog, reliability targets, on-call process, incident records,
 runbooks, and team practice docs.
 
-Documentation only — nothing here is deployed. Written for <TEAM NAME> members,
+Documentation only — nothing here is deployed. Written for `<TEAM NAME>` members,
 the on-call engineer at 3am, new hires, and partner engineering teams.
 
 Team size is 5 engineers. Keep everything proportionate to that. Do not propose
