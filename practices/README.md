@@ -29,6 +29,6 @@ eliminating interrupts.
 
 ## Proportion
 
-Team size is 4 engineers. A practice that needs more people than that to run is
+Team size is 5 engineers. A practice that needs more people than that to run is
 not a practice, it is a proposal for a larger team. If a step exists only to
 produce a document nobody reads, cut the step.

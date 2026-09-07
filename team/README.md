@@ -20,7 +20,7 @@ usually "Not this role".
 
 ## Proportion
 
-Team size is 4 engineers. One person holds several roles; role files should say
+Team size is 5 engineers. One person holds several roles; role files should say
 so rather than implying a headcount the team does not have.
 
 ## Rules that apply here

@@ -10,7 +10,7 @@ Personnel rule: observable documented facts only. No assessment of any
 individual — individual performance documentation lives elsewhere, not in this
 repo.
 
-Team size is 4 engineers. One person holds several of these roles; say so
+Team size is 5 engineers. One person holds several of these roles; say so
 rather than implying a headcount the team does not have.
 -->
 

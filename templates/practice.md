@@ -7,7 +7,7 @@ A practice doc says what the team actually does, in enough detail that a new
 hire can follow it without asking. If the team does not do it yet, it is a
 proposal — say so in the status field.
 
-Team size is 4 engineers. Do not write a process that needs more people than
+Team size is 5 engineers. Do not write a process that needs more people than
 that to run. If a step exists only to produce a document nobody reads, cut it.
 -->
 

@@ -7,7 +7,7 @@ runbooks, and team practice docs.
 Documentation only — nothing here is deployed. Written for <TEAM NAME> members,
 the on-call engineer at 3am, new hires, and partner engineering teams.
 
-Team size is 4 engineers. Keep everything proportionate to that. Do not propose
+Team size is 5 engineers. Keep everything proportionate to that. Do not propose
 processes, review boards, or document hierarchies built for a large org.
 
 Documents are written in **English**.
